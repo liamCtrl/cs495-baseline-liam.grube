@@ -1,0 +1,1 @@
+I'm not familiar with Continuous Integration in GitHub. Its also been quite a long time since I last worked with Python, and I'd rather get a bit more of a recap before using it in a graded assignment.
